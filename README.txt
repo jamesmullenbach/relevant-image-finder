@@ -47,7 +47,7 @@ To set up the front end:
 Your environment should be ready to run the script.
 
 RUNNING THE SCRIPT
-In a command prompt in the root of the folder, run "python hello.py".
+In a command prompt in the root of the folder, run "python main.py".
 
 You may need to click "Allow" on a popup asking if it can run. After that, you
 are running the back end script! Go on to use the chrome extension normally.
